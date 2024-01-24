@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 To build the Docker image, navigate to the project directory and run the `build_and_start.sh` script:
 
 ```bash
-./build_and_start.sh
+./start.sh
 ```
 
 ### Accessing the Docker Container
